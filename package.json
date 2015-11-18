@@ -1,0 +1,11 @@
+{
+  "name": "node-day-one",
+  "version": "1.0.0",
+  "description": "A repository for learning Node and NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Israel Turner",
+  "license": "ISC"
+}
