@@ -9,7 +9,7 @@ var jacob = nodeDayOne.jacob;
 var nodeSite = nodeDayOne.resources.nodeSite;
 ```
 
-Or, using Ecmascript 2016:
+Or, using Ecmascript 2015:
 ```
 import { jacob, resources } from 'node-day-one';
 
